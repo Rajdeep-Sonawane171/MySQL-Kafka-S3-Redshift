@@ -1,0 +1,770 @@
+/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.xerial.snappy_snappy-java-1.0.5.jar
+2024-02-07 19:40:57,301 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar with timestamp 1707334816349
+2024-02-07 19:40:57,304 INFO util.Utils: /root/.ivy2/jars/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar
+2024-02-07 19:40:57,312 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.tukaani_xz-1.0.jar with timestamp 1707334816540
+2024-02-07 19:40:57,312 INFO util.Utils: /root/.ivy2/jars/org.tukaani_xz-1.0.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.tukaani_xz-1.0.jar
+2024-02-07 19:40:57,331 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.codehaus.jackson_jackson-core-asl-1.9.13.jar with timestamp 1707334816294
+2024-02-07 19:40:57,332 INFO util.Utils: /root/.ivy2/jars/org.codehaus.jackson_jackson-core-asl-1.9.13.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-core-asl-1.9.13.jar
+2024-02-07 19:40:57,349 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.apache.commons_commons-compress-1.4.1.jar with timestamp 1707334816519
+2024-02-07 19:40:57,351 INFO util.Utils: /root/.ivy2/jars/org.apache.commons_commons-compress-1.4.1.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.commons_commons-compress-1.4.1.jar
+2024-02-07 19:40:57,367 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.spark-project.spark_unused-1.0.0.jar with timestamp 1707334816558
+2024-02-07 19:40:57,367 INFO util.Utils: /root/.ivy2/jars/org.spark-project.spark_unused-1.0.0.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.spark-project.spark_unused-1.0.0.jar
+2024-02-07 19:40:57,386 INFO executor.Executor: Fetching file:///root/.ivy2/jars/org.slf4j_slf4j-api-1.7.5.jar with timestamp 1707334816180
+2024-02-07 19:40:57,386 INFO util.Utils: /root/.ivy2/jars/org.slf4j_slf4j-api-1.7.5.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.slf4j_slf4j-api-1.7.5.jar
+2024-02-07 19:40:57,405 INFO executor.Executor: Fetching file:///root/.ivy2/jars/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar with timestamp 1707334816158
+2024-02-07 19:40:57,405 INFO util.Utils: /root/.ivy2/jars/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar
+2024-02-07 19:40:57,420 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.slf4j_slf4j-api-1.7.5.jar with timestamp 1707334815996
+2024-02-07 19:40:57,541 INFO client.TransportClientFactory: Successfully created connection to 141017104ad5/172.18.0.2:36021 after 82 ms (0 ms spent in bootstraps)
+2024-02-07 19:40:57,580 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.slf4j_slf4j-api-1.7.5.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp959333695641918005.tmp
+2024-02-07 19:40:57,658 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp959333695641918005.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.slf4j_slf4j-api-1.7.5.jar
+2024-02-07 19:40:57,675 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.slf4j_slf4j-api-1.7.5.jar to class loader
+2024-02-07 19:40:57,675 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.spark-project.spark_unused-1.0.0.jar with timestamp 1707334816009
+2024-02-07 19:40:57,676 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.spark-project.spark_unused-1.0.0.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp4173691999325283253.tmp
+2024-02-07 19:40:57,682 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp4173691999325283253.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.spark-project.spark_unused-1.0.0.jar
+2024-02-07 19:40:57,705 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.spark-project.spark_unused-1.0.0.jar to class loader
+2024-02-07 19:40:57,706 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.tukaani_xz-1.0.jar with timestamp 1707334816009
+2024-02-07 19:40:57,708 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.tukaani_xz-1.0.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp339255328506583046.tmp
+2024-02-07 19:40:57,716 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp339255328506583046.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.tukaani_xz-1.0.jar
+2024-02-07 19:40:57,731 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.tukaani_xz-1.0.jar to class loader
+2024-02-07 19:40:57,732 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/com.thoughtworks.paranamer_paranamer-2.3.jar with timestamp 1707334816008
+2024-02-07 19:40:57,742 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/com.thoughtworks.paranamer_paranamer-2.3.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7600903894387665681.tmp
+2024-02-07 19:40:57,750 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7600903894387665681.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.thoughtworks.paranamer_paranamer-2.3.jar
+2024-02-07 19:40:57,778 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.thoughtworks.paranamer_paranamer-2.3.jar to class loader
+2024-02-07 19:40:57,778 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.xerial.snappy_snappy-java-1.0.5.jar with timestamp 1707334816009
+2024-02-07 19:40:57,779 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.xerial.snappy_snappy-java-1.0.5.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2648555765184864489.tmp
+2024-02-07 19:40:57,825 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2648555765184864489.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.xerial.snappy_snappy-java-1.0.5.jar
+2024-02-07 19:40:57,833 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.xerial.snappy_snappy-java-1.0.5.jar to class loader
+2024-02-07 19:40:57,833 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.apache.avro_avro-1.7.6.jar with timestamp 1707334815997
+2024-02-07 19:40:57,834 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.apache.avro_avro-1.7.6.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2624776170589310988.tmp
+2024-02-07 19:40:57,848 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2624776170589310988.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.avro_avro-1.7.6.jar
+2024-02-07 19:40:57,863 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.avro_avro-1.7.6.jar to class loader
+2024-02-07 19:40:57,863 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.codehaus.jackson_jackson-core-asl-1.9.13.jar with timestamp 1707334815997
+2024-02-07 19:40:57,866 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.codehaus.jackson_jackson-core-asl-1.9.13.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7202394382595406903.tmp
+2024-02-07 19:40:57,894 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7202394382595406903.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-core-asl-1.9.13.jar
+2024-02-07 19:40:57,913 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-core-asl-1.9.13.jar to class loader
+2024-02-07 19:40:57,913 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.apache.commons_commons-compress-1.4.1.jar with timestamp 1707334816009
+2024-02-07 19:40:57,914 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.apache.commons_commons-compress-1.4.1.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2186625244272892311.tmp
+2024-02-07 19:40:57,931 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2186625244272892311.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.commons_commons-compress-1.4.1.jar
+2024-02-07 19:40:57,946 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.commons_commons-compress-1.4.1.jar to class loader
+2024-02-07 19:40:57,946 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/com.databricks_spark-redshift_2.10-2.0.0.jar with timestamp 1707334815995
+2024-02-07 19:40:57,958 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/com.databricks_spark-redshift_2.10-2.0.0.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3564665569752700451.tmp
+2024-02-07 19:40:57,962 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3564665569752700451.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.databricks_spark-redshift_2.10-2.0.0.jar
+2024-02-07 19:40:57,986 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.databricks_spark-redshift_2.10-2.0.0.jar to class loader
+2024-02-07 19:40:57,987 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar with timestamp 1707334815996
+2024-02-07 19:40:57,987 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2656180063850408966.tmp
+2024-02-07 19:40:58,016 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp2656180063850408966.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar
+2024-02-07 19:40:58,030 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.eclipsesource.minimal-json_minimal-json-0.9.4.jar to class loader
+2024-02-07 19:40:58,031 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/RedshiftJDBC4-no-awssdk-1.2.20.1043.jar with timestamp 1707334815993
+2024-02-07 19:40:58,031 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/RedshiftJDBC4-no-awssdk-1.2.20.1043.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp4713062413545660113.tmp
+2024-02-07 19:40:58,177 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/RedshiftJDBC4-no-awssdk-1.2.20.1043.jar to class loader
+2024-02-07 19:40:58,178 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.apache.spark_spark-avro_2.11-2.4.0.jar with timestamp 1707334815995
+2024-02-07 19:40:58,178 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.apache.spark_spark-avro_2.11-2.4.0.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3424262577880522595.tmp
+2024-02-07 19:40:58,185 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3424262577880522595.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.spark_spark-avro_2.11-2.4.0.jar
+2024-02-07 19:40:58,204 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.apache.spark_spark-avro_2.11-2.4.0.jar to class loader
+2024-02-07 19:40:58,205 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/com.databricks_spark-avro_2.10-3.0.0.jar with timestamp 1707334815996
+2024-02-07 19:40:58,207 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/com.databricks_spark-avro_2.10-3.0.0.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7195626996292101911.tmp
+2024-02-07 19:40:58,227 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp7195626996292101911.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.databricks_spark-avro_2.10-3.0.0.jar
+2024-02-07 19:40:58,240 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/com.databricks_spark-avro_2.10-3.0.0.jar to class loader
+2024-02-07 19:40:58,241 INFO executor.Executor: Fetching spark://141017104ad5:36021/jars/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar with timestamp 1707334816008
+2024-02-07 19:40:58,241 INFO util.Utils: Fetching spark://141017104ad5:36021/jars/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3795333510088944676.tmp
+2024-02-07 19:40:58,257 INFO util.Utils: /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/fetchFileTemp3795333510088944676.tmp has been previously copied to /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar
+2024-02-07 19:40:58,281 INFO executor.Executor: Adding file:/tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/userFiles-ee0d4f11-fae9-4612-b645-48e6805b92f1/org.codehaus.jackson_jackson-mapper-asl-1.9.13.jar to class loader
+2024-02-07 19:40:58,591 INFO codegen.CodeGenerator: Code generated in 42.112058 ms
+2024-02-07 19:40:58,602 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00000-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-13506, partition values: [empty row]
+2024-02-07 19:40:58,602 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00004-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-8628, partition values: [empty row]
+2024-02-07 19:40:58,602 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00003-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-8195, partition values: [empty row]
+2024-02-07 19:41:02,925 INFO compress.CodecPool: Got brand-new decompressor [.snappy]
+2024-02-07 19:41:02,927 INFO compress.CodecPool: Got brand-new decompressor [.snappy]
+2024-02-07 19:41:02,927 INFO compress.CodecPool: Got brand-new decompressor [.snappy]
+2024-02-07 19:41:03,346 INFO codegen.CodeGenerator: Code generated in 32.576618 ms
+2024-02-07 19:41:03,356 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:41:03,356 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:41:03,357 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:41:03,371 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:41:03,371 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:41:03,372 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:41:03,377 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:41:03,381 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:41:03,386 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:41:07,374 INFO codegen.CodeGenerator: Code generated in 163.835019 ms
+2024-02-07 19:41:07,755 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00005-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-8332, partition values: [empty row]
+2024-02-07 19:41:07,758 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00001-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-6478, partition values: [empty row]
+2024-02-07 19:41:07,811 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/fact_sales/part-00002-dfe2c9f4-7eb5-450b-8111-8adb19fbd708-c000.snappy.parquet, range: 0-10245, partition values: [empty row]
+2024-02-07 19:41:34,801 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194056_0000_m_000002_2' to s3a://redshift-ineuron/2a23333a-9e8b-4d94-a98a-5e81f9104007
+2024-02-07 19:41:34,803 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194056_0000_m_000002_2: Committed
+2024-02-07 19:41:34,865 INFO executor.Executor: Finished task 2.0 in stage 0.0 (TID 2). 3178 bytes result sent to driver
+2024-02-07 19:41:34,892 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 0.0 (TID 2) in 37799 ms on localhost (executor driver) (1/3)
+2024-02-07 19:41:35,264 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194056_0000_m_000001_1' to s3a://redshift-ineuron/2a23333a-9e8b-4d94-a98a-5e81f9104007
+2024-02-07 19:41:35,264 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194056_0000_m_000001_1: Committed
+2024-02-07 19:41:35,268 INFO executor.Executor: Finished task 1.0 in stage 0.0 (TID 1). 3135 bytes result sent to driver
+2024-02-07 19:41:35,273 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 0.0 (TID 1) in 38193 ms on localhost (executor driver) (2/3)
+2024-02-07 19:41:35,576 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194056_0000_m_000000_0' to s3a://redshift-ineuron/2a23333a-9e8b-4d94-a98a-5e81f9104007
+2024-02-07 19:41:35,576 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194056_0000_m_000000_0: Committed
+2024-02-07 19:41:35,581 INFO executor.Executor: Finished task 0.0 in stage 0.0 (TID 0). 3135 bytes result sent to driver
+2024-02-07 19:41:35,594 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 38545 ms on localhost (executor driver) (3/3)
+2024-02-07 19:41:35,600 INFO scheduler.DAGScheduler: ResultStage 0 (save at RedshiftWriter.scala:278) finished in 38.978 s
+2024-02-07 19:41:35,596 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool 
+2024-02-07 19:41:35,633 INFO scheduler.DAGScheduler: Job 0 finished: save at RedshiftWriter.scala:278, took 39.180365 s
+2024-02-07 19:41:46,965 INFO datasources.FileFormatWriter: Write Job 50d2483d-5077-42d8-b7dc-70bccff4d2ad committed.
+2024-02-07 19:41:46,985 INFO datasources.FileFormatWriter: Finished processing stats for write job 50d2483d-5077-42d8-b7dc-70bccff4d2ad.
+2024-02-07 19:41:57,537 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."fact_sales"
+2024-02-07 19:41:57,542 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."fact_sales" ("productId" TEXT, "customerId" TEXT, "salesRepEmployeeNumber" TEXT, "locationId" TEXT, "orderId" TEXT, "orderDate" TEXT, "status" TEXT, "quantity" TEXT, "unitPrice" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:41:58,114 INFO redshift.RedshiftWriter: COPY "eshop"."fact_sales" FROM 's3://redshift-ineuron/2a23333a-9e8b-4d94-a98a-5e81f9104007/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:42:17,243 INFO datasources.InMemoryFileIndex: It took 2550 ms to list leaf files for 1 paths.
+date
+dayOfWeek
+dayOfMonth
+weekNumber
+monthNumber
+monthName
+year
+2024-02-07 19:42:18,792 WARN redshift.Utils$: The S3 bucket redshift-ineuron does not have an object lifecycle configuration to ensure cleanup of temporary files. Consider configuring `tempdir` to point to a bucket with an object lifecycle policy that automatically deletes files after an expiration period. For more information, see https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+2024-02-07 19:42:18,849 INFO datasources.FileSourceStrategy: Pruning directories with: 
+2024-02-07 19:42:18,850 INFO datasources.FileSourceStrategy: Post-Scan Filters: 
+2024-02-07 19:42:18,851 INFO datasources.FileSourceStrategy: Output Data Schema: struct<date: date, dayOfWeek: int, dayOfMonth: int, weekNumber: int, monthNumber: int ... 5 more fields>
+2024-02-07 19:42:18,851 INFO execution.FileSourceScanExec: Pushed Filters: 
+2024-02-07 19:42:18,959 INFO codegen.CodeGenerator: Code generated in 72.687368 ms
+2024-02-07 19:42:18,987 INFO memory.MemoryStore: Block broadcast_2 stored as values in memory (estimated size 416.6 KB, free 365.1 MB)
+2024-02-07 19:42:19,034 INFO memory.MemoryStore: Block broadcast_2_piece0 stored as bytes in memory (estimated size 40.0 KB, free 365.1 MB)
+2024-02-07 19:42:19,035 INFO storage.BlockManagerInfo: Added broadcast_2_piece0 in memory on 141017104ad5:33119 (size: 40.0 KB, free: 366.1 MB)
+2024-02-07 19:42:19,037 INFO spark.SparkContext: Created broadcast 2 from rdd at RedshiftWriter.scala:237
+2024-02-07 19:42:19,037 INFO execution.FileSourceScanExec: Planning scan with bin packing, max size: 4196818 bytes, open cost is considered as scanning 4194304 bytes.
+2024-02-07 19:42:22,402 INFO avro.AvroFileFormat: Compressing Avro output using the snappy codec
+2024-02-07 19:42:22,406 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:42:22,406 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:42:22,407 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:42:30,364 INFO spark.SparkContext: Starting job: save at RedshiftWriter.scala:278
+2024-02-07 19:42:30,366 INFO scheduler.DAGScheduler: Got job 1 (save at RedshiftWriter.scala:278) with 4 output partitions
+2024-02-07 19:42:30,366 INFO scheduler.DAGScheduler: Final stage: ResultStage 1 (save at RedshiftWriter.scala:278)
+2024-02-07 19:42:30,367 INFO scheduler.DAGScheduler: Parents of final stage: List()
+2024-02-07 19:42:30,367 INFO scheduler.DAGScheduler: Missing parents: List()
+2024-02-07 19:42:30,368 INFO scheduler.DAGScheduler: Submitting ResultStage 1 (MapPartitionsRDD[19] at save at RedshiftWriter.scala:278), which has no missing parents
+2024-02-07 19:42:30,443 INFO memory.MemoryStore: Block broadcast_3 stored as values in memory (estimated size 253.1 KB, free 364.8 MB)
+2024-02-07 19:42:30,447 INFO memory.MemoryStore: Block broadcast_3_piece0 stored as bytes in memory (estimated size 90.6 KB, free 364.7 MB)
+2024-02-07 19:42:30,448 INFO storage.BlockManagerInfo: Added broadcast_3_piece0 in memory on 141017104ad5:33119 (size: 90.6 KB, free: 366.0 MB)
+2024-02-07 19:42:30,450 INFO spark.SparkContext: Created broadcast 3 from broadcast at DAGScheduler.scala:1184
+2024-02-07 19:42:30,451 INFO scheduler.DAGScheduler: Submitting 4 missing tasks from ResultStage 1 (MapPartitionsRDD[19] at save at RedshiftWriter.scala:278) (first 15 tasks are for partitions Vector(0, 1, 2, 3))
+2024-02-07 19:42:30,451 INFO scheduler.TaskSchedulerImpl: Adding task set 1.0 with 4 tasks
+2024-02-07 19:42:30,453 INFO scheduler.TaskSetManager: Starting task 0.0 in stage 1.0 (TID 3, localhost, executor driver, partition 0, PROCESS_LOCAL, 8340 bytes)
+2024-02-07 19:42:30,454 INFO scheduler.TaskSetManager: Starting task 1.0 in stage 1.0 (TID 4, localhost, executor driver, partition 1, PROCESS_LOCAL, 8340 bytes)
+2024-02-07 19:42:30,454 INFO scheduler.TaskSetManager: Starting task 2.0 in stage 1.0 (TID 5, localhost, executor driver, partition 2, PROCESS_LOCAL, 8340 bytes)
+2024-02-07 19:42:30,455 INFO scheduler.TaskSetManager: Starting task 3.0 in stage 1.0 (TID 6, localhost, executor driver, partition 3, PROCESS_LOCAL, 8340 bytes)
+2024-02-07 19:42:30,455 INFO executor.Executor: Running task 2.0 in stage 1.0 (TID 5)
+2024-02-07 19:42:30,455 INFO executor.Executor: Running task 1.0 in stage 1.0 (TID 4)
+2024-02-07 19:42:30,456 INFO executor.Executor: Running task 0.0 in stage 1.0 (TID 3)
+2024-02-07 19:42:30,461 INFO executor.Executor: Running task 3.0 in stage 1.0 (TID 6)
+2024-02-07 19:42:30,612 INFO codegen.CodeGenerator: Code generated in 30.974664 ms
+2024-02-07 19:42:30,614 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_dates/part-00001-c2339cf9-07cb-41ff-bc89-90407201acab-c000.snappy.parquet, range: 0-2064, partition values: [empty row]
+2024-02-07 19:42:30,615 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_dates/part-00000-c2339cf9-07cb-41ff-bc89-90407201acab-c000.snappy.parquet, range: 0-832, partition values: [empty row]
+2024-02-07 19:42:30,617 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_dates/part-00005-c2339cf9-07cb-41ff-bc89-90407201acab-c000.snappy.parquet, range: 0-3578, partition values: [empty row]
+2024-02-07 19:42:30,617 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_dates/part-00004-c2339cf9-07cb-41ff-bc89-90407201acab-c000.snappy.parquet, range: 0-3582, partition values: [empty row]
+2024-02-07 19:42:34,491 INFO codegen.CodeGenerator: Code generated in 30.766966 ms
+2024-02-07 19:42:34,495 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:42:34,496 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:42:34,497 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:42:34,725 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:42:34,725 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:42:34,725 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:42:34,853 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:42:34,853 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:42:34,853 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:42:35,059 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:42:35,059 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:42:35,060 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:42:38,172 INFO mapred.SparkHadoopMapRedUtil: No need to commit output of task because needsTaskCommit=false: attempt_20240207194230_0001_m_000003_6
+2024-02-07 19:42:38,175 INFO executor.Executor: Finished task 3.0 in stage 1.0 (TID 6). 2886 bytes result sent to driver
+2024-02-07 19:42:38,178 INFO scheduler.TaskSetManager: Finished task 3.0 in stage 1.0 (TID 6) in 7724 ms on localhost (executor driver) (1/4)
+2024-02-07 19:42:38,659 INFO codegen.CodeGenerator: Code generated in 89.326523 ms
+2024-02-07 19:43:02,857 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194230_0001_m_000002_5' to s3a://redshift-ineuron/cdc001f5-314d-440a-9f2f-e4655880293b
+2024-02-07 19:43:02,858 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194230_0001_m_000002_5: Committed
+2024-02-07 19:43:02,868 INFO executor.Executor: Finished task 2.0 in stage 1.0 (TID 5). 3135 bytes result sent to driver
+2024-02-07 19:43:02,873 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 1.0 (TID 5) in 32418 ms on localhost (executor driver) (2/4)
+2024-02-07 19:43:03,092 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194230_0001_m_000000_3' to s3a://redshift-ineuron/cdc001f5-314d-440a-9f2f-e4655880293b
+2024-02-07 19:43:03,092 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194230_0001_m_000000_3: Committed
+2024-02-07 19:43:03,099 INFO executor.Executor: Finished task 0.0 in stage 1.0 (TID 3). 3135 bytes result sent to driver
+2024-02-07 19:43:03,104 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 1.0 (TID 3) in 32650 ms on localhost (executor driver) (3/4)
+2024-02-07 19:43:03,433 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194230_0001_m_000001_4' to s3a://redshift-ineuron/cdc001f5-314d-440a-9f2f-e4655880293b
+2024-02-07 19:43:03,433 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194230_0001_m_000001_4: Committed
+2024-02-07 19:43:03,435 INFO executor.Executor: Finished task 1.0 in stage 1.0 (TID 4). 3135 bytes result sent to driver
+2024-02-07 19:43:03,437 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 1.0 (TID 4) in 32984 ms on localhost (executor driver) (4/4)
+2024-02-07 19:43:03,437 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 1.0, whose tasks have all completed, from pool 
+2024-02-07 19:43:03,439 INFO scheduler.DAGScheduler: ResultStage 1 (save at RedshiftWriter.scala:278) finished in 33.068 s
+2024-02-07 19:43:03,439 INFO scheduler.DAGScheduler: Job 1 finished: save at RedshiftWriter.scala:278, took 33.076276 s
+2024-02-07 19:43:14,002 INFO datasources.FileFormatWriter: Write Job e00d8051-daa4-4a03-bac3-e7cafca89b11 committed.
+2024-02-07 19:43:14,003 INFO datasources.FileFormatWriter: Finished processing stats for write job e00d8051-daa4-4a03-bac3-e7cafca89b11.
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 57
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 62
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 70
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 46
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 65
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 69
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 47
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 59
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 45
+2024-02-07 19:43:20,968 INFO spark.ContextCleaner: Cleaned accumulator 55
+2024-02-07 19:43:21,003 INFO storage.BlockManagerInfo: Removed broadcast_3_piece0 on 141017104ad5:33119 in memory (size: 90.6 KB, free: 366.1 MB)
+2024-02-07 19:43:21,011 INFO spark.ContextCleaner: Cleaned accumulator 67
+2024-02-07 19:43:21,012 INFO spark.ContextCleaner: Cleaned accumulator 56
+2024-02-07 19:43:21,015 INFO spark.ContextCleaner: Cleaned accumulator 71
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 72
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 48
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 50
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 68
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 43
+2024-02-07 19:43:21,018 INFO spark.ContextCleaner: Cleaned accumulator 54
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 37
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 64
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 52
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 51
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 53
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 49
+2024-02-07 19:43:21,019 INFO spark.ContextCleaner: Cleaned accumulator 44
+2024-02-07 19:43:21,020 INFO spark.ContextCleaner: Cleaned accumulator 63
+2024-02-07 19:43:21,020 INFO spark.ContextCleaner: Cleaned accumulator 60
+2024-02-07 19:43:21,020 INFO spark.ContextCleaner: Cleaned accumulator 61
+2024-02-07 19:43:21,020 INFO spark.ContextCleaner: Cleaned accumulator 58
+2024-02-07 19:43:21,020 INFO spark.ContextCleaner: Cleaned accumulator 66
+2024-02-07 19:43:22,992 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_dates"
+2024-02-07 19:43:22,993 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_dates" ("date" TEXT, "dayOfWeek" TEXT, "dayOfMonth" TEXT, "weekNumber" TEXT, "monthNumber" TEXT, "monthName" TEXT, "year" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:43:23,520 INFO redshift.RedshiftWriter: COPY "eshop"."dim_dates" FROM 's3://redshift-ineuron/cdc001f5-314d-440a-9f2f-e4655880293b/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:43:41,471 INFO datasources.InMemoryFileIndex: It took 2621 ms to list leaf files for 1 paths.
+city
+state
+postalCode
+country
+locationId
+2024-02-07 19:43:42,945 WARN redshift.Utils$: The S3 bucket redshift-ineuron does not have an object lifecycle configuration to ensure cleanup of temporary files. Consider configuring `tempdir` to point to a bucket with an object lifecycle policy that automatically deletes files after an expiration period. For more information, see https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+2024-02-07 19:43:42,992 INFO datasources.FileSourceStrategy: Pruning directories with: 
+2024-02-07 19:43:42,993 INFO datasources.FileSourceStrategy: Post-Scan Filters: 
+2024-02-07 19:43:42,993 INFO datasources.FileSourceStrategy: Output Data Schema: struct<city: string, state: string, postalCode: string, country: string, locationId: bigint ... 3 more fields>
+2024-02-07 19:43:42,994 INFO execution.FileSourceScanExec: Pushed Filters: 
+2024-02-07 19:43:43,064 INFO codegen.CodeGenerator: Code generated in 55.541581 ms
+2024-02-07 19:43:43,098 INFO memory.MemoryStore: Block broadcast_4 stored as values in memory (estimated size 416.1 KB, free 364.7 MB)
+2024-02-07 19:43:43,150 INFO memory.MemoryStore: Block broadcast_4_piece0 stored as bytes in memory (estimated size 40.0 KB, free 364.6 MB)
+2024-02-07 19:43:43,152 INFO storage.BlockManagerInfo: Added broadcast_4_piece0 in memory on 141017104ad5:33119 (size: 40.0 KB, free: 366.1 MB)
+2024-02-07 19:43:43,153 INFO spark.SparkContext: Created broadcast 4 from rdd at RedshiftWriter.scala:237
+2024-02-07 19:43:43,153 INFO execution.FileSourceScanExec: Planning scan with bin packing, max size: 4194304 bytes, open cost is considered as scanning 4194304 bytes.
+2024-02-07 19:43:46,221 INFO avro.AvroFileFormat: Compressing Avro output using the snappy codec
+2024-02-07 19:43:46,225 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:43:46,225 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:43:46,226 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:43:54,143 INFO spark.SparkContext: Starting job: save at RedshiftWriter.scala:278
+2024-02-07 19:43:54,145 INFO scheduler.DAGScheduler: Got job 2 (save at RedshiftWriter.scala:278) with 3 output partitions
+2024-02-07 19:43:54,145 INFO scheduler.DAGScheduler: Final stage: ResultStage 2 (save at RedshiftWriter.scala:278)
+2024-02-07 19:43:54,145 INFO scheduler.DAGScheduler: Parents of final stage: List()
+2024-02-07 19:43:54,145 INFO scheduler.DAGScheduler: Missing parents: List()
+2024-02-07 19:43:54,146 INFO scheduler.DAGScheduler: Submitting ResultStage 2 (MapPartitionsRDD[31] at save at RedshiftWriter.scala:278), which has no missing parents
+2024-02-07 19:43:54,207 INFO memory.MemoryStore: Block broadcast_5 stored as values in memory (estimated size 249.4 KB, free 364.4 MB)
+2024-02-07 19:43:54,212 INFO memory.MemoryStore: Block broadcast_5_piece0 stored as bytes in memory (estimated size 90.2 KB, free 364.3 MB)
+2024-02-07 19:43:54,214 INFO storage.BlockManagerInfo: Added broadcast_5_piece0 in memory on 141017104ad5:33119 (size: 90.2 KB, free: 366.0 MB)
+2024-02-07 19:43:54,215 INFO spark.SparkContext: Created broadcast 5 from broadcast at DAGScheduler.scala:1184
+2024-02-07 19:43:54,218 INFO scheduler.DAGScheduler: Submitting 3 missing tasks from ResultStage 2 (MapPartitionsRDD[31] at save at RedshiftWriter.scala:278) (first 15 tasks are for partitions Vector(0, 1, 2))
+2024-02-07 19:43:54,219 INFO scheduler.TaskSchedulerImpl: Adding task set 2.0 with 3 tasks
+2024-02-07 19:43:54,230 INFO scheduler.TaskSetManager: Starting task 0.0 in stage 2.0 (TID 7, localhost, executor driver, partition 0, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:43:54,231 INFO scheduler.TaskSetManager: Starting task 1.0 in stage 2.0 (TID 8, localhost, executor driver, partition 1, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:43:54,231 INFO scheduler.TaskSetManager: Starting task 2.0 in stage 2.0 (TID 9, localhost, executor driver, partition 2, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:43:54,232 INFO executor.Executor: Running task 0.0 in stage 2.0 (TID 7)
+2024-02-07 19:43:54,232 INFO executor.Executor: Running task 2.0 in stage 2.0 (TID 9)
+2024-02-07 19:43:54,233 INFO executor.Executor: Running task 1.0 in stage 2.0 (TID 8)
+2024-02-07 19:43:54,487 INFO codegen.CodeGenerator: Code generated in 44.124121 ms
+2024-02-07 19:43:54,489 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_locations/part-00005-e9ac0211-1205-4818-acfd-226a09c334bc-c000.snappy.parquet, range: 0-3330, partition values: [empty row]
+2024-02-07 19:43:54,491 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_locations/part-00000-e9ac0211-1205-4818-acfd-226a09c334bc-c000.snappy.parquet, range: 0-661, partition values: [empty row]
+2024-02-07 19:43:54,524 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_locations/part-00001-e9ac0211-1205-4818-acfd-226a09c334bc-c000.snappy.parquet, range: 0-2823, partition values: [empty row]
+2024-02-07 19:43:57,973 INFO codegen.CodeGenerator: Code generated in 18.771021 ms
+2024-02-07 19:43:57,977 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:43:57,977 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:43:57,977 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:43:58,154 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:43:58,154 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:43:58,155 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:43:58,198 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:43:58,199 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:43:58,199 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:44:01,107 INFO mapred.SparkHadoopMapRedUtil: No need to commit output of task because needsTaskCommit=false: attempt_20240207194354_0002_m_000002_9
+2024-02-07 19:44:01,109 INFO executor.Executor: Finished task 2.0 in stage 2.0 (TID 9). 2886 bytes result sent to driver
+2024-02-07 19:44:01,110 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 2.0 (TID 9) in 6879 ms on localhost (executor driver) (1/3)
+2024-02-07 19:44:01,343 INFO codegen.CodeGenerator: Code generated in 50.876087 ms
+2024-02-07 19:44:24,934 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194354_0002_m_000000_7' to s3a://redshift-ineuron/2ccfbc49-8d8d-45ae-b470-3eb0e1e6ec89
+2024-02-07 19:44:24,936 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194354_0002_m_000000_7: Committed
+2024-02-07 19:44:24,942 INFO executor.Executor: Finished task 0.0 in stage 2.0 (TID 7). 3135 bytes result sent to driver
+2024-02-07 19:44:24,946 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 2.0 (TID 7) in 30717 ms on localhost (executor driver) (2/3)
+2024-02-07 19:44:25,775 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194354_0002_m_000001_8' to s3a://redshift-ineuron/2ccfbc49-8d8d-45ae-b470-3eb0e1e6ec89
+2024-02-07 19:44:25,775 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194354_0002_m_000001_8: Committed
+2024-02-07 19:44:25,777 INFO executor.Executor: Finished task 1.0 in stage 2.0 (TID 8). 3092 bytes result sent to driver
+2024-02-07 19:44:25,778 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 2.0 (TID 8) in 31548 ms on localhost (executor driver) (3/3)
+2024-02-07 19:44:25,779 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 2.0, whose tasks have all completed, from pool 
+2024-02-07 19:44:25,779 INFO scheduler.DAGScheduler: ResultStage 2 (save at RedshiftWriter.scala:278) finished in 31.631 s
+2024-02-07 19:44:25,780 INFO scheduler.DAGScheduler: Job 2 finished: save at RedshiftWriter.scala:278, took 31.638673 s
+2024-02-07 19:44:37,048 INFO datasources.FileFormatWriter: Write Job 2e515862-9da0-4f52-a16a-0875e11a846a committed.
+2024-02-07 19:44:37,049 INFO datasources.FileFormatWriter: Finished processing stats for write job 2e515862-9da0-4f52-a16a-0875e11a846a.
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 90
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 89
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 105
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 104
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 108
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 102
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 39
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 100
+2024-02-07 19:44:43,821 INFO spark.ContextCleaner: Cleaned accumulator 94
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 93
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 42
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 96
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 81
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 85
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 98
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 82
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 40
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 73
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 99
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 106
+2024-02-07 19:44:43,822 INFO spark.ContextCleaner: Cleaned accumulator 91
+2024-02-07 19:44:43,851 INFO storage.BlockManagerInfo: Removed broadcast_5_piece0 on 141017104ad5:33119 in memory (size: 90.2 KB, free: 366.1 MB)
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 87
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 86
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 38
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 79
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 92
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 41
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 95
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 84
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 80
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 103
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 83
+2024-02-07 19:44:43,869 INFO spark.ContextCleaner: Cleaned accumulator 97
+2024-02-07 19:44:43,886 INFO storage.BlockManagerInfo: Removed broadcast_2_piece0 on 141017104ad5:33119 in memory (size: 40.0 KB, free: 366.1 MB)
+2024-02-07 19:44:43,901 INFO spark.ContextCleaner: Cleaned accumulator 107
+2024-02-07 19:44:43,901 INFO spark.ContextCleaner: Cleaned accumulator 101
+2024-02-07 19:44:43,901 INFO spark.ContextCleaner: Cleaned accumulator 88
+2024-02-07 19:44:46,119 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_location"
+2024-02-07 19:44:46,119 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_location" ("city" TEXT, "state" TEXT, "postalCode" TEXT, "country" TEXT, "locationId" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:44:46,612 INFO redshift.RedshiftWriter: COPY "eshop"."dim_location" FROM 's3://redshift-ineuron/2ccfbc49-8d8d-45ae-b470-3eb0e1e6ec89/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:45:04,681 INFO datasources.InMemoryFileIndex: It took 2530 ms to list leaf files for 1 paths.
+productCode
+productName
+productScale
+productVendor
+productDescription
+quantityInStock
+buyPrice
+MSRP
+2024-02-07 19:45:06,268 WARN redshift.Utils$: The S3 bucket redshift-ineuron does not have an object lifecycle configuration to ensure cleanup of temporary files. Consider configuring `tempdir` to point to a bucket with an object lifecycle policy that automatically deletes files after an expiration period. For more information, see https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+2024-02-07 19:45:06,374 INFO datasources.FileSourceStrategy: Pruning directories with: 
+2024-02-07 19:45:06,374 INFO datasources.FileSourceStrategy: Post-Scan Filters: 
+2024-02-07 19:45:06,375 INFO datasources.FileSourceStrategy: Output Data Schema: struct<productCode: string, productName: string, productScale: string, productVendor: string, quantityInStock: int ... 5 more fields>
+2024-02-07 19:45:06,375 INFO execution.FileSourceScanExec: Pushed Filters: 
+2024-02-07 19:45:06,429 INFO codegen.CodeGenerator: Code generated in 43.441384 ms
+2024-02-07 19:45:06,449 INFO memory.MemoryStore: Block broadcast_6 stored as values in memory (estimated size 416.7 KB, free 364.7 MB)
+2024-02-07 19:45:06,483 INFO memory.MemoryStore: Block broadcast_6_piece0 stored as bytes in memory (estimated size 40.2 KB, free 364.6 MB)
+2024-02-07 19:45:06,484 INFO storage.BlockManagerInfo: Added broadcast_6_piece0 in memory on 141017104ad5:33119 (size: 40.2 KB, free: 366.1 MB)
+2024-02-07 19:45:06,487 INFO spark.SparkContext: Created broadcast 6 from rdd at RedshiftWriter.scala:237
+2024-02-07 19:45:06,488 INFO execution.FileSourceScanExec: Planning scan with bin packing, max size: 4194304 bytes, open cost is considered as scanning 4194304 bytes.
+2024-02-07 19:45:09,791 INFO avro.AvroFileFormat: Compressing Avro output using the snappy codec
+2024-02-07 19:45:09,794 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:45:09,794 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:45:09,796 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:45:17,792 INFO spark.SparkContext: Starting job: save at RedshiftWriter.scala:278
+2024-02-07 19:45:17,794 INFO scheduler.DAGScheduler: Got job 3 (save at RedshiftWriter.scala:278) with 3 output partitions
+2024-02-07 19:45:17,795 INFO scheduler.DAGScheduler: Final stage: ResultStage 3 (save at RedshiftWriter.scala:278)
+2024-02-07 19:45:17,795 INFO scheduler.DAGScheduler: Parents of final stage: List()
+2024-02-07 19:45:17,795 INFO scheduler.DAGScheduler: Missing parents: List()
+2024-02-07 19:45:17,796 INFO scheduler.DAGScheduler: Submitting ResultStage 3 (MapPartitionsRDD[43] at save at RedshiftWriter.scala:278), which has no missing parents
+2024-02-07 19:45:17,870 INFO memory.MemoryStore: Block broadcast_7 stored as values in memory (estimated size 252.9 KB, free 364.4 MB)
+2024-02-07 19:45:17,875 INFO memory.MemoryStore: Block broadcast_7_piece0 stored as bytes in memory (estimated size 90.6 KB, free 364.3 MB)
+2024-02-07 19:45:17,876 INFO storage.BlockManagerInfo: Added broadcast_7_piece0 in memory on 141017104ad5:33119 (size: 90.6 KB, free: 366.0 MB)
+2024-02-07 19:45:17,879 INFO spark.SparkContext: Created broadcast 7 from broadcast at DAGScheduler.scala:1184
+2024-02-07 19:45:17,882 INFO scheduler.DAGScheduler: Submitting 3 missing tasks from ResultStage 3 (MapPartitionsRDD[43] at save at RedshiftWriter.scala:278) (first 15 tasks are for partitions Vector(0, 1, 2))
+2024-02-07 19:45:17,882 INFO scheduler.TaskSchedulerImpl: Adding task set 3.0 with 3 tasks
+2024-02-07 19:45:17,884 INFO scheduler.TaskSetManager: Starting task 0.0 in stage 3.0 (TID 10, localhost, executor driver, partition 0, PROCESS_LOCAL, 8343 bytes)
+2024-02-07 19:45:17,885 INFO scheduler.TaskSetManager: Starting task 1.0 in stage 3.0 (TID 11, localhost, executor driver, partition 1, PROCESS_LOCAL, 8343 bytes)
+2024-02-07 19:45:17,886 INFO scheduler.TaskSetManager: Starting task 2.0 in stage 3.0 (TID 12, localhost, executor driver, partition 2, PROCESS_LOCAL, 8343 bytes)
+2024-02-07 19:45:17,886 INFO executor.Executor: Running task 1.0 in stage 3.0 (TID 11)
+2024-02-07 19:45:17,886 INFO executor.Executor: Running task 0.0 in stage 3.0 (TID 10)
+2024-02-07 19:45:17,915 INFO executor.Executor: Running task 2.0 in stage 3.0 (TID 12)
+2024-02-07 19:45:17,961 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_products/part-00005-2f7e4274-a756-470c-9ea6-5b697203ddf6-c000.snappy.parquet, range: 0-9644, partition values: [empty row]
+2024-02-07 19:45:17,967 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_products/part-00002-2f7e4274-a756-470c-9ea6-5b697203ddf6-c000.snappy.parquet, range: 0-8444, partition values: [empty row]
+2024-02-07 19:45:17,982 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_products/part-00000-2f7e4274-a756-470c-9ea6-5b697203ddf6-c000.snappy.parquet, range: 0-6461, partition values: [empty row]
+2024-02-07 19:45:21,538 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:45:21,538 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:45:21,539 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:45:21,672 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:45:21,672 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:45:21,672 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:45:21,735 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:45:21,735 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:45:21,736 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:45:49,122 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194517_0003_m_000000_10' to s3a://redshift-ineuron/bb31c50d-777e-4a62-8067-1327525a4e3e
+2024-02-07 19:45:49,123 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194517_0003_m_000000_10: Committed
+2024-02-07 19:45:49,126 INFO executor.Executor: Finished task 0.0 in stage 3.0 (TID 10). 3092 bytes result sent to driver
+2024-02-07 19:45:49,130 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 3.0 (TID 10) in 31246 ms on localhost (executor driver) (1/3)
+2024-02-07 19:45:49,239 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194517_0003_m_000002_12' to s3a://redshift-ineuron/bb31c50d-777e-4a62-8067-1327525a4e3e
+2024-02-07 19:45:49,239 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194517_0003_m_000002_12: Committed
+2024-02-07 19:45:49,240 INFO executor.Executor: Finished task 2.0 in stage 3.0 (TID 12). 3092 bytes result sent to driver
+2024-02-07 19:45:49,242 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 3.0 (TID 12) in 31356 ms on localhost (executor driver) (2/3)
+2024-02-07 19:45:49,277 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194517_0003_m_000001_11' to s3a://redshift-ineuron/bb31c50d-777e-4a62-8067-1327525a4e3e
+2024-02-07 19:45:49,277 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194517_0003_m_000001_11: Committed
+2024-02-07 19:45:49,279 INFO executor.Executor: Finished task 1.0 in stage 3.0 (TID 11). 3092 bytes result sent to driver
+2024-02-07 19:45:49,280 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 3.0 (TID 11) in 31396 ms on localhost (executor driver) (3/3)
+2024-02-07 19:45:49,281 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 3.0, whose tasks have all completed, from pool 
+2024-02-07 19:45:49,281 INFO scheduler.DAGScheduler: ResultStage 3 (save at RedshiftWriter.scala:278) finished in 31.482 s
+2024-02-07 19:45:49,283 INFO scheduler.DAGScheduler: Job 3 finished: save at RedshiftWriter.scala:278, took 31.491719 s
+2024-02-07 19:45:59,784 INFO datasources.FileFormatWriter: Write Job c18fda39-fb32-41a5-a783-9c472ff090a9 committed.
+2024-02-07 19:45:59,787 INFO datasources.FileFormatWriter: Finished processing stats for write job c18fda39-fb32-41a5-a783-9c472ff090a9.
+2024-02-07 19:46:06,141 INFO storage.BlockManagerInfo: Removed broadcast_4_piece0 on 141017104ad5:33119 in memory (size: 40.0 KB, free: 366.0 MB)
+2024-02-07 19:46:06,147 INFO spark.ContextCleaner: Cleaned accumulator 120
+2024-02-07 19:46:06,147 INFO spark.ContextCleaner: Cleaned accumulator 123
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 131
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 143
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 118
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 116
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 121
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 119
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 75
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 76
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 142
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 133
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 130
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 125
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 139
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 127
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 122
+2024-02-07 19:46:06,148 INFO spark.ContextCleaner: Cleaned accumulator 78
+2024-02-07 19:46:06,156 INFO storage.BlockManagerInfo: Removed broadcast_7_piece0 on 141017104ad5:33119 in memory (size: 90.6 KB, free: 366.1 MB)
+2024-02-07 19:46:06,158 INFO spark.ContextCleaner: Cleaned accumulator 140
+2024-02-07 19:46:06,158 INFO spark.ContextCleaner: Cleaned accumulator 117
+2024-02-07 19:46:06,158 INFO spark.ContextCleaner: Cleaned accumulator 132
+2024-02-07 19:46:06,158 INFO spark.ContextCleaner: Cleaned accumulator 138
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 109
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 135
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 115
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 141
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 134
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 126
+2024-02-07 19:46:06,159 INFO spark.ContextCleaner: Cleaned accumulator 144
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 136
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 77
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 124
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 74
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 137
+2024-02-07 19:46:06,160 INFO spark.ContextCleaner: Cleaned accumulator 128
+2024-02-07 19:46:06,161 INFO spark.ContextCleaner: Cleaned accumulator 129
+2024-02-07 19:46:08,569 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_products"
+2024-02-07 19:46:08,572 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_products" ("productCode" TEXT, "productName" TEXT, "productScale" TEXT, "productVendor" TEXT, "quantityInStock" TEXT, "buyPrice" TEXT, "MSRP" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:46:09,077 INFO redshift.RedshiftWriter: COPY "eshop"."dim_products" FROM 's3://redshift-ineuron/bb31c50d-777e-4a62-8067-1327525a4e3e/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:46:21,661 INFO datasources.InMemoryFileIndex: It took 2571 ms to list leaf files for 1 paths.
+customerNumber
+customerName
+contactFirstName
+contactLastName
+phone
+creditLimit
+addressLine1
+addressLine2
+2024-02-07 19:46:23,126 WARN redshift.Utils$: The S3 bucket redshift-ineuron does not have an object lifecycle configuration to ensure cleanup of temporary files. Consider configuring `tempdir` to point to a bucket with an object lifecycle policy that automatically deletes files after an expiration period. For more information, see https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+2024-02-07 19:46:23,182 INFO datasources.FileSourceStrategy: Pruning directories with: 
+2024-02-07 19:46:23,183 INFO datasources.FileSourceStrategy: Post-Scan Filters: 
+2024-02-07 19:46:23,184 INFO datasources.FileSourceStrategy: Output Data Schema: struct<customerNumber: int, customerName: string, contactFirstName: string, contactLastName: string, phone: string ... 6 more fields>
+2024-02-07 19:46:23,184 INFO execution.FileSourceScanExec: Pushed Filters: 
+2024-02-07 19:46:23,238 INFO codegen.CodeGenerator: Code generated in 34.198999 ms
+2024-02-07 19:46:23,254 INFO memory.MemoryStore: Block broadcast_8 stored as values in memory (estimated size 417.0 KB, free 364.7 MB)
+2024-02-07 19:46:23,284 INFO memory.MemoryStore: Block broadcast_8_piece0 stored as bytes in memory (estimated size 40.2 KB, free 364.6 MB)
+2024-02-07 19:46:23,288 INFO storage.BlockManagerInfo: Added broadcast_8_piece0 in memory on 141017104ad5:33119 (size: 40.2 KB, free: 366.1 MB)
+2024-02-07 19:46:23,289 INFO spark.SparkContext: Created broadcast 8 from rdd at RedshiftWriter.scala:237
+2024-02-07 19:46:23,290 INFO execution.FileSourceScanExec: Planning scan with bin packing, max size: 5247792 bytes, open cost is considered as scanning 4194304 bytes.
+2024-02-07 19:46:26,553 INFO avro.AvroFileFormat: Compressing Avro output using the snappy codec
+2024-02-07 19:46:26,557 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:46:26,557 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:46:26,558 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:46:34,556 INFO spark.SparkContext: Starting job: save at RedshiftWriter.scala:278
+2024-02-07 19:46:34,558 INFO scheduler.DAGScheduler: Got job 4 (save at RedshiftWriter.scala:278) with 3 output partitions
+2024-02-07 19:46:34,558 INFO scheduler.DAGScheduler: Final stage: ResultStage 4 (save at RedshiftWriter.scala:278)
+2024-02-07 19:46:34,558 INFO scheduler.DAGScheduler: Parents of final stage: List()
+2024-02-07 19:46:34,559 INFO scheduler.DAGScheduler: Missing parents: List()
+2024-02-07 19:46:34,559 INFO scheduler.DAGScheduler: Submitting ResultStage 4 (MapPartitionsRDD[55] at save at RedshiftWriter.scala:278), which has no missing parents
+2024-02-07 19:46:34,618 INFO memory.MemoryStore: Block broadcast_9 stored as values in memory (estimated size 253.9 KB, free 364.4 MB)
+2024-02-07 19:46:34,622 INFO memory.MemoryStore: Block broadcast_9_piece0 stored as bytes in memory (estimated size 90.7 KB, free 364.3 MB)
+2024-02-07 19:46:34,624 INFO storage.BlockManagerInfo: Added broadcast_9_piece0 in memory on 141017104ad5:33119 (size: 90.7 KB, free: 366.0 MB)
+2024-02-07 19:46:34,625 INFO spark.SparkContext: Created broadcast 9 from broadcast at DAGScheduler.scala:1184
+2024-02-07 19:46:34,628 INFO scheduler.DAGScheduler: Submitting 3 missing tasks from ResultStage 4 (MapPartitionsRDD[55] at save at RedshiftWriter.scala:278) (first 15 tasks are for partitions Vector(0, 1, 2))
+2024-02-07 19:46:34,628 INFO scheduler.TaskSchedulerImpl: Adding task set 4.0 with 3 tasks
+2024-02-07 19:46:34,631 INFO scheduler.TaskSetManager: Starting task 0.0 in stage 4.0 (TID 13, localhost, executor driver, partition 0, PROCESS_LOCAL, 8502 bytes)
+2024-02-07 19:46:34,631 INFO scheduler.TaskSetManager: Starting task 1.0 in stage 4.0 (TID 14, localhost, executor driver, partition 1, PROCESS_LOCAL, 8502 bytes)
+2024-02-07 19:46:34,631 INFO scheduler.TaskSetManager: Starting task 2.0 in stage 4.0 (TID 15, localhost, executor driver, partition 2, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:46:34,632 INFO executor.Executor: Running task 0.0 in stage 4.0 (TID 13)
+2024-02-07 19:46:34,633 INFO executor.Executor: Running task 1.0 in stage 4.0 (TID 14)
+2024-02-07 19:46:34,641 INFO executor.Executor: Running task 2.0 in stage 4.0 (TID 15)
+2024-02-07 19:46:34,732 INFO codegen.CodeGenerator: Code generated in 22.495221 ms
+2024-02-07 19:46:34,735 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_customers/part-00000-b85bc0de-0006-49f4-bd2c-0a2e7f1c1fb4-c000.snappy.parquet, range: 0-1023, partition values: [empty row]
+2024-02-07 19:46:34,735 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_customers/part-00001-b85bc0de-0006-49f4-bd2c-0a2e7f1c1fb4-c000.snappy.parquet, range: 0-2860, partition values: [empty row]
+2024-02-07 19:46:34,735 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_customers/part-00002-b85bc0de-0006-49f4-bd2c-0a2e7f1c1fb4-c000.snappy.parquet, range: 0-8016, partition values: [empty row]
+2024-02-07 19:46:38,283 INFO codegen.CodeGenerator: Code generated in 40.718472 ms
+2024-02-07 19:46:38,285 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:46:38,286 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:46:38,286 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:46:38,348 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:46:38,348 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:46:38,349 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:46:38,352 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:46:38,355 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:46:38,364 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:46:41,324 INFO mapred.SparkHadoopMapRedUtil: No need to commit output of task because needsTaskCommit=false: attempt_20240207194634_0004_m_000002_15
+2024-02-07 19:46:41,344 INFO executor.Executor: Finished task 2.0 in stage 4.0 (TID 15). 2886 bytes result sent to driver
+2024-02-07 19:46:41,349 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 4.0 (TID 15) in 6718 ms on localhost (executor driver) (1/3)
+2024-02-07 19:46:41,502 INFO codegen.CodeGenerator: Code generated in 72.627667 ms
+2024-02-07 19:46:41,507 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_customers/part-00003-b85bc0de-0006-49f4-bd2c-0a2e7f1c1fb4-c000.snappy.parquet, range: 0-2439, partition values: [empty row]
+2024-02-07 19:46:41,557 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_customers/part-00005-b85bc0de-0006-49f4-bd2c-0a2e7f1c1fb4-c000.snappy.parquet, range: 0-5311, partition values: [empty row]
+2024-02-07 19:47:08,545 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194634_0004_m_000001_14' to s3a://redshift-ineuron/dbe85dc7-2048-483a-8f45-ad328fb860c2
+2024-02-07 19:47:08,546 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194634_0004_m_000001_14: Committed
+2024-02-07 19:47:08,551 INFO executor.Executor: Finished task 1.0 in stage 4.0 (TID 14). 3135 bytes result sent to driver
+2024-02-07 19:47:08,557 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 4.0 (TID 14) in 33926 ms on localhost (executor driver) (2/3)
+2024-02-07 19:47:09,335 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194634_0004_m_000000_13' to s3a://redshift-ineuron/dbe85dc7-2048-483a-8f45-ad328fb860c2
+2024-02-07 19:47:09,335 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194634_0004_m_000000_13: Committed
+2024-02-07 19:47:09,339 INFO executor.Executor: Finished task 0.0 in stage 4.0 (TID 13). 3092 bytes result sent to driver
+2024-02-07 19:47:09,345 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 4.0 (TID 13) in 34715 ms on localhost (executor driver) (3/3)
+2024-02-07 19:47:09,352 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 4.0, whose tasks have all completed, from pool 
+2024-02-07 19:47:09,353 INFO scheduler.DAGScheduler: ResultStage 4 (save at RedshiftWriter.scala:278) finished in 34.786 s
+2024-02-07 19:47:09,355 INFO scheduler.DAGScheduler: Job 4 finished: save at RedshiftWriter.scala:278, took 34.800037 s
+2024-02-07 19:47:21,273 INFO datasources.FileFormatWriter: Write Job dc0d50e0-1c32-4981-9b67-df0b61ec80f7 committed.
+2024-02-07 19:47:21,275 INFO datasources.FileFormatWriter: Finished processing stats for write job dc0d50e0-1c32-4981-9b67-df0b61ec80f7.
+2024-02-07 19:47:27,999 INFO spark.ContextCleaner: Cleaned accumulator 172
+2024-02-07 19:47:27,999 INFO spark.ContextCleaner: Cleaned accumulator 151
+2024-02-07 19:47:27,999 INFO spark.ContextCleaner: Cleaned accumulator 111
+2024-02-07 19:47:27,999 INFO spark.ContextCleaner: Cleaned accumulator 161
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 153
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 174
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 114
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 173
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 178
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 156
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 155
+2024-02-07 19:47:28,000 INFO spark.ContextCleaner: Cleaned accumulator 157
+2024-02-07 19:47:28,001 INFO spark.ContextCleaner: Cleaned accumulator 113
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 164
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 168
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 169
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 171
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 179
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 158
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 176
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 145
+2024-02-07 19:47:28,002 INFO spark.ContextCleaner: Cleaned accumulator 177
+2024-02-07 19:47:28,006 INFO storage.BlockManagerInfo: Removed broadcast_9_piece0 on 141017104ad5:33119 in memory (size: 90.7 KB, free: 366.1 MB)
+2024-02-07 19:47:28,013 INFO spark.ContextCleaner: Cleaned accumulator 162
+2024-02-07 19:47:28,014 INFO spark.ContextCleaner: Cleaned accumulator 180
+2024-02-07 19:47:28,015 INFO spark.ContextCleaner: Cleaned accumulator 159
+2024-02-07 19:47:28,019 INFO spark.ContextCleaner: Cleaned accumulator 163
+2024-02-07 19:47:28,019 INFO spark.ContextCleaner: Cleaned accumulator 175
+2024-02-07 19:47:28,019 INFO spark.ContextCleaner: Cleaned accumulator 110
+2024-02-07 19:47:28,031 INFO storage.BlockManagerInfo: Removed broadcast_6_piece0 on 141017104ad5:33119 in memory (size: 40.2 KB, free: 366.1 MB)
+2024-02-07 19:47:28,035 INFO spark.ContextCleaner: Cleaned accumulator 170
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 112
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 152
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 165
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 154
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 160
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 167
+2024-02-07 19:47:28,036 INFO spark.ContextCleaner: Cleaned accumulator 166
+2024-02-07 19:47:30,358 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_customers"
+2024-02-07 19:47:30,361 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_customers" ("customerNumber" TEXT, "customerName" TEXT, "contactFirstName" TEXT, "contactLastName" TEXT, "phone" TEXT, "creditLimit" TEXT, "addressLine1" TEXT, "addressLine2" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:47:30,868 INFO redshift.RedshiftWriter: COPY "eshop"."dim_customers" FROM 's3://redshift-ineuron/dbe85dc7-2048-483a-8f45-ad328fb860c2/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:47:49,063 INFO datasources.InMemoryFileIndex: It took 2634 ms to list leaf files for 1 paths.
+employeeNumber
+lastName
+firstName
+extension
+email
+officeCode
+reportsTo
+jobTitle
+2024-02-07 19:47:50,625 WARN redshift.Utils$: The S3 bucket redshift-ineuron does not have an object lifecycle configuration to ensure cleanup of temporary files. Consider configuring `tempdir` to point to a bucket with an object lifecycle policy that automatically deletes files after an expiration period. For more information, see https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+2024-02-07 19:47:50,716 INFO datasources.FileSourceStrategy: Pruning directories with: 
+2024-02-07 19:47:50,720 INFO datasources.FileSourceStrategy: Post-Scan Filters: 
+2024-02-07 19:47:50,721 INFO datasources.FileSourceStrategy: Output Data Schema: struct<employeeNumber: int, lastName: string, firstName: string, extension: string, email: string ... 6 more fields>
+2024-02-07 19:47:50,723 INFO execution.FileSourceScanExec: Pushed Filters: 
+2024-02-07 19:47:50,826 INFO codegen.CodeGenerator: Code generated in 65.896461 ms
+2024-02-07 19:47:50,855 INFO memory.MemoryStore: Block broadcast_10 stored as values in memory (estimated size 416.9 KB, free 364.7 MB)
+2024-02-07 19:47:50,889 INFO memory.MemoryStore: Block broadcast_10_piece0 stored as bytes in memory (estimated size 40.1 KB, free 364.6 MB)
+2024-02-07 19:47:50,890 INFO storage.BlockManagerInfo: Added broadcast_10_piece0 in memory on 141017104ad5:33119 (size: 40.1 KB, free: 366.1 MB)
+2024-02-07 19:47:50,890 INFO spark.SparkContext: Created broadcast 10 from rdd at RedshiftWriter.scala:237
+2024-02-07 19:47:50,891 INFO execution.FileSourceScanExec: Planning scan with bin packing, max size: 4196568 bytes, open cost is considered as scanning 4194304 bytes.
+2024-02-07 19:47:50,927 INFO storage.BlockManagerInfo: Removed broadcast_8_piece0 on 141017104ad5:33119 in memory (size: 40.2 KB, free: 366.1 MB)
+2024-02-07 19:47:50,936 INFO spark.ContextCleaner: Cleaned accumulator 146
+2024-02-07 19:47:50,937 INFO spark.ContextCleaner: Cleaned accumulator 148
+2024-02-07 19:47:50,937 INFO spark.ContextCleaner: Cleaned accumulator 149
+2024-02-07 19:47:50,937 INFO spark.ContextCleaner: Cleaned accumulator 150
+2024-02-07 19:47:50,937 INFO spark.ContextCleaner: Cleaned accumulator 147
+2024-02-07 19:47:54,142 INFO avro.AvroFileFormat: Compressing Avro output using the snappy codec
+2024-02-07 19:47:54,145 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:47:54,145 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:47:54,146 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:48:01,976 INFO spark.SparkContext: Starting job: save at RedshiftWriter.scala:278
+2024-02-07 19:48:01,978 INFO scheduler.DAGScheduler: Got job 5 (save at RedshiftWriter.scala:278) with 4 output partitions
+2024-02-07 19:48:01,978 INFO scheduler.DAGScheduler: Final stage: ResultStage 5 (save at RedshiftWriter.scala:278)
+2024-02-07 19:48:01,978 INFO scheduler.DAGScheduler: Parents of final stage: List()
+2024-02-07 19:48:01,978 INFO scheduler.DAGScheduler: Missing parents: List()
+2024-02-07 19:48:01,979 INFO scheduler.DAGScheduler: Submitting ResultStage 5 (MapPartitionsRDD[67] at save at RedshiftWriter.scala:278), which has no missing parents
+2024-02-07 19:48:02,028 INFO memory.MemoryStore: Block broadcast_11 stored as values in memory (estimated size 253.3 KB, free 364.8 MB)
+2024-02-07 19:48:02,031 INFO memory.MemoryStore: Block broadcast_11_piece0 stored as bytes in memory (estimated size 90.6 KB, free 364.7 MB)
+2024-02-07 19:48:02,032 INFO storage.BlockManagerInfo: Added broadcast_11_piece0 in memory on 141017104ad5:33119 (size: 90.6 KB, free: 366.0 MB)
+2024-02-07 19:48:02,033 INFO spark.SparkContext: Created broadcast 11 from broadcast at DAGScheduler.scala:1184
+2024-02-07 19:48:02,034 INFO scheduler.DAGScheduler: Submitting 4 missing tasks from ResultStage 5 (MapPartitionsRDD[67] at save at RedshiftWriter.scala:278) (first 15 tasks are for partitions Vector(0, 1, 2, 3))
+2024-02-07 19:48:02,034 INFO scheduler.TaskSchedulerImpl: Adding task set 5.0 with 4 tasks
+2024-02-07 19:48:02,035 INFO scheduler.TaskSetManager: Starting task 0.0 in stage 5.0 (TID 16, localhost, executor driver, partition 0, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:48:02,036 INFO scheduler.TaskSetManager: Starting task 1.0 in stage 5.0 (TID 17, localhost, executor driver, partition 1, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:48:02,036 INFO scheduler.TaskSetManager: Starting task 2.0 in stage 5.0 (TID 18, localhost, executor driver, partition 2, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:48:02,036 INFO scheduler.TaskSetManager: Starting task 3.0 in stage 5.0 (TID 19, localhost, executor driver, partition 3, PROCESS_LOCAL, 8344 bytes)
+2024-02-07 19:48:02,037 INFO executor.Executor: Running task 0.0 in stage 5.0 (TID 16)
+2024-02-07 19:48:02,037 INFO executor.Executor: Running task 1.0 in stage 5.0 (TID 17)
+2024-02-07 19:48:02,052 INFO executor.Executor: Running task 3.0 in stage 5.0 (TID 19)
+2024-02-07 19:48:02,053 INFO executor.Executor: Running task 2.0 in stage 5.0 (TID 18)
+2024-02-07 19:48:02,111 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_employees/part-00003-ea58df53-de82-4f30-8569-189fffdb9e63-c000.snappy.parquet, range: 0-2843, partition values: [empty row]
+2024-02-07 19:48:02,139 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_employees/part-00000-ea58df53-de82-4f30-8569-189fffdb9e63-c000.snappy.parquet, range: 0-953, partition values: [empty row]
+2024-02-07 19:48:02,142 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_employees/part-00002-ea58df53-de82-4f30-8569-189fffdb9e63-c000.snappy.parquet, range: 0-2621, partition values: [empty row]
+2024-02-07 19:48:02,143 INFO datasources.FileScanRDD: Reading File path: s3a://retails-data-analysis-batch1/kafka-topic/dim_employees/part-00005-ea58df53-de82-4f30-8569-189fffdb9e63-c000.snappy.parquet, range: 0-2642, partition values: [empty row]
+2024-02-07 19:48:05,510 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:48:05,510 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:48:05,510 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:48:05,768 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:48:05,769 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:48:05,769 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:48:05,796 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:48:05,796 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:48:05,796 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:48:05,900 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2024-02-07 19:48:05,900 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2024-02-07 19:48:05,900 INFO datasources.SQLHadoopMapReduceCommitProtocol: Using output committer class org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2024-02-07 19:48:08,591 INFO mapred.SparkHadoopMapRedUtil: No need to commit output of task because needsTaskCommit=false: attempt_20240207194801_0005_m_000003_19
+2024-02-07 19:48:08,593 INFO executor.Executor: Finished task 3.0 in stage 5.0 (TID 19). 2929 bytes result sent to driver
+2024-02-07 19:48:08,595 INFO scheduler.TaskSetManager: Finished task 3.0 in stage 5.0 (TID 19) in 6559 ms on localhost (executor driver) (1/4)
+2024-02-07 19:48:33,433 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000001_17' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:33,433 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000001_17: Committed
+2024-02-07 19:48:33,437 INFO executor.Executor: Finished task 1.0 in stage 5.0 (TID 17). 3092 bytes result sent to driver
+2024-02-07 19:48:33,440 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 5.0 (TID 17) in 31405 ms on localhost (executor driver) (2/4)
+2024-02-07 19:48:34,026 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000000_16' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:34,026 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000000_16: Committed
+2024-02-07 19:48:34,028 INFO executor.Executor: Finished task 0.0 in stage 5.0 (TID 16). 3092 bytes result sent to driver
+2024-02-07 19:48:34,029 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 5.0 (TID 16) in 31994 ms on localhost (executor driver) (3/4)
+2024-02-07 19:48:34,043 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000002_18' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:34,043 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000002_18: Committed
+2024-02-07 19:48:34,046 INFO executor.Executor: Finished task 2.0 in stage 5.0 (TID 18). 3092 bytes result sent to driver
+2024-02-07 19:48:34,048 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 5.0 (TID 18) in 32012 ms on localhost (executor driver) (4/4)
+2024-02-07 19:48:34,048 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 5.0, whose tasks have all completed, from pool 
+2024-02-07 19:48:34,050 INFO scheduler.DAGScheduler: ResultStage 5 (save at RedshiftWriter.scala:278) finished in 32.069 s
+2024-02-07 19:48:34,051 INFO scheduler.DAGScheduler: Job 5 finished: save at RedshiftWriter.scala:278, took 32.074998 s
+2024-02-07 19:48:44,312 INFO datasources.FileFormatWriter: Write Job 1b8f5532-6b79-4132-a875-a2e1bb0a7558 committed.
+2024-02-07 19:48:44,313 INFO datasources.FileFormatWriter: Finished processing stats for write job 1b8f5532-6b79-4132-a875-a2e1bb0a7558.
+2024-02-07 19:48:50,699 INFO spark.ContextCleaner: Cleaned accumulator 209
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 212
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 204
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 197
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 202
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 201
+2024-02-07 19:48:50,705 INFO storage.BlockManagerInfo: Removed broadcast_11_piece0 on 141017104ad5:33119 in memory (size: 90.6 KB, free: 366.1 MB)
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 194
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 211
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 199
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 198
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 207
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 188
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 190
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 214
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 191
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 200
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 196
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 189
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 215
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 216
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 193
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 187
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 205
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 213
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 192
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 203
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 206
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 195
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 210
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 181
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 208
+2024-02-07 19:48:52,980 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_employees"
+2024-02-07 19:48:52,980 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_employees" ("employeeNumber" TEXT, "lastName" TEXT, "firstName" TEXT, "extension" TEXT, "email" TEXT, "officeCode" TEXT, "reportsTo" TEXT, "jobTitle" TEXT) DISTSTYLE EVEN  
+2024-02-07 19:48:53,466 INFO redshift.RedshiftWriter: COPY "eshop"."dim_employees" FROM 's3://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:48:55,541 INFO spark.SparkContext: Invoking stop() from shutdown hook
+2024-02-07 19:48:55,557 INFO server.AbstractConnector: Stopped Spark@2ec9881d{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+2024-02-07 19:48:55,561 INFO ui.SparkUI: Stopped Spark web UI at http://141017104ad5:4040
+2024-02-07 19:48:55,597 INFO spark.MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+2024-02-07 19:48:55,634 INFO memory.MemoryStore: MemoryStore cleared
+2024-02-07 19:48:55,635 INFO storage.BlockManager: BlockManager stopped
+2024-02-07 19:48:55,641 INFO storage.BlockManagerMaster: BlockManagerMaster stopped
+2024-02-07 19:48:55,654 INFO scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+2024-02-07 19:48:55,679 INFO spark.SparkContext: Successfully stopped SparkContext
+2024-02-07 19:48:55,680 INFO util.ShutdownHookManager: Shutdown hook called
+2024-02-07 19:48:55,681 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25
+2024-02-07 19:48:55,695 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/pyspark-c0f8c986-3f57-4712-94eb-bfd241dd8b0e
+2024-02-07 19:48:55,713 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-919e47f2-4735-4a1c-a649-cee453682676
+root@141017104ad5:/project# 
+2024-02-07 19:48:08,593 INFO executor.Executor: Finished task 3.0 in stage 5.0 (TID 19). 2929 bytes result sent to driver
+2024-02-07 19:48:08,595 INFO scheduler.TaskSetManager: Finished task 3.0 in stage 5.0 (TID 19) in 6559 ms on localhost (executor driver) (1/4)ver) (1/4)
+2024-02-07 19:48:33,433 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000001_17' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:33,433 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000001_17: Committed
+2024-02-07 19:48:33,437 INFO executor.Executor: Finished task 1.0 in stage 5.0 (TID 17). 3092 bytes result sent to driver
+2024-02-07 19:48:33,440 INFO scheduler.TaskSetManager: Finished task 1.0 in stage 5.0 (TID 17) in 31405 ms on localhost (executor driver) (2/4)iver) (2/4)
+2024-02-07 19:48:34,026 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000000_16' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:34,026 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000000_16: Committed
+2024-02-07 19:48:34,028 INFO executor.Executor: Finished task 0.0 in stage 5.0 (TID 16). 3092 bytes result sent to driver
+2024-02-07 19:48:34,029 INFO scheduler.TaskSetManager: Finished task 0.0 in stage 5.0 (TID 16) in 31994 ms on localhost (executor driver) (3/4)iver) (3/4)
+2024-02-07 19:48:34,043 INFO output.FileOutputCommitter: Saved output of task 'attempt_20240207194801_0005_m_000002_18' to s3a://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880
+2024-02-07 19:48:34,043 INFO mapred.SparkHadoopMapRedUtil: attempt_20240207194801_0005_m_000002_18: Committed
+2024-02-07 19:48:34,046 INFO executor.Executor: Finished task 2.0 in stage 5.0 (TID 18). 3092 bytes result sent to driver
+2024-02-07 19:48:34,048 INFO scheduler.TaskSetManager: Finished task 2.0 in stage 5.0 (TID 18) in 32012 ms on localhost (executor driver) (4/4)iver) (4/4)
+2024-02-07 19:48:34,048 INFO scheduler.TaskSchedulerImpl: Removed TaskSet 5.0, whose tasks have all completed, from pool 
+2024-02-07 19:48:34,050 INFO scheduler.DAGScheduler: ResultStage 5 (save at RedshiftWriter.scala:278) finished in 32.069 s
+2024-02-07 19:48:34,051 INFO scheduler.DAGScheduler: Job 5 finished: save at RedshiftWriter.scala:278, took 32.074998 s
+2024-02-07 19:48:44,312 INFO datasources.FileFormatWriter: Write Job 1b8f5532-6b79-4132-a875-a2e1bb0a7558 committed.
+2024-02-07 19:48:44,313 INFO datasources.FileFormatWriter: Finished processing stats for write job 1b8f5532-6b79-4132-a875-a2e1bb0a7558.558.
+2024-02-07 19:48:50,699 INFO spark.ContextCleaner: Cleaned accumulator 209
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 212
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 204
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 197
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 202
+2024-02-07 19:48:50,701 INFO spark.ContextCleaner: Cleaned accumulator 201
+2024-02-07 19:48:50,705 INFO storage.BlockManagerInfo: Removed broadcast_11_piece0 on 141017104ad5:33119 in memory (size: 90.6 KB, free: 366.1 MB)
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 194
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 211
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 199
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 198
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 207
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 188
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 190
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 214
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 191
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 200
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 196
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 189
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 215
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 216
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 193
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 187
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 205
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 213
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 192
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 203
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 206
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 195
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 210
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 181
+2024-02-07 19:48:50,717 INFO spark.ContextCleaner: Cleaned accumulator 208
+2024-02-07 19:48:52,980 INFO redshift.RedshiftWriter: Loading new Redshift data to: "eshop"."dim_employees"
+2024-02-07 19:48:52,980 INFO redshift.RedshiftWriter: CREATE TABLE IF NOT EXISTS "eshop"."dim_employees" ("employeeNumber" TEXT, "lastName" TEXT, "firstName" TEXT, "extension" TEXT, "email" TEXT, "officeCode" TEXT, "reportsTo" TEXT, "jobTitle" TEXT) DISTSTYLE EVEN    
+2024-02-07 19:48:53,466 INFO redshift.RedshiftWriter: COPY "eshop"."dim_employees" FROM 's3://redshift-ineuron/6f0ccd13-e9ee-4222-a409-e9060cb35880/manifest.json' CREDENTIALS 'aws_access_key_id=AKIA4MTWLLCCO6KMHZP6;aws_secret_access_key=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' FORMAT AS AVRO 'auto' manifest 
+2024-02-07 19:48:55,541 INFO spark.SparkContext: Invoking stop() from shutdown hook
+2024-02-07 19:48:55,557 INFO server.AbstractConnector: Stopped Spark@2ec9881d{HTTP/1.1, (http/1.1)}{0.0.0.0:4040}
+2024-02-07 19:48:55,561 INFO ui.SparkUI: Stopped Spark web UI at http://141017104ad5:4040
+2024-02-07 19:48:55,597 INFO spark.MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+2024-02-07 19:48:55,634 INFO memory.MemoryStore: MemoryStore cleared
+2024-02-07 19:48:55,635 INFO storage.BlockManager: BlockManager stopped
+2024-02-07 19:48:55,641 INFO storage.BlockManagerMaster: BlockManagerMaster stopped
+2024-02-07 19:48:55,654 INFO scheduler.OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+2024-02-07 19:48:55,679 INFO spark.SparkContext: Successfully stopped SparkContext
+2024-02-07 19:48:55,680 INFO util.ShutdownHookManager: Shutdown hook called
+2024-02-07 19:48:55,681 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25
+2024-02-07 19:48:55,695 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-e9a0468e-dcf9-495c-a78f-a8f38c250c25/pyspark-c0f8c986-3f57-4712-94eb-bfd241dd8b0e
+2024-02-07 19:48:55,713 INFO util.ShutdownHookManager: Deleting directory /tmp/spark-919e47f2-4735-4a1c-a649-cee453682676
