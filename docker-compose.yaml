@@ -11,8 +11,8 @@ services:
     container_name: pyspark
     restart: always
     environment:
-      - AWS_ACCESS_KEY_ID=AKIA4MTWLLCCO6KMHZP6
-      - AWS_SECRET_ACCESS_KEY=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
+      - AWS_ACCESS_KEY_ID=
+      - AWS_SECRET_ACCESS_KEY=
     ports:
       - "4040:4040"
     volumes:
@@ -48,8 +48,8 @@ services:
    image: avnish327030/pyspark-2.4.8-hadoop-3.0:latest
    container_name: pyspark_v2.4.8
    environment:
-      - AWS_ACCESS_KEY_ID=AKIA4MTWLLCCO6KMHZP6
-      - AWS_SECRET_ACCESS_KEY=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
+      - AWS_ACCESS_KEY_ID=
+      - AWS_SECRET_ACCESS_KEY=
    volumes:
     - "./kafka-redshift:/project"
 

@@ -1,6 +1,7 @@
 datadir
 credential.txt
 notebook
+log.txt
 older_pyspark
 old_pyspark
 **/*.env
